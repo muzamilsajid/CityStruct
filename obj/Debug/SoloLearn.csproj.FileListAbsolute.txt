@@ -1,0 +1,10 @@
+C:\Users\Lenovo-PC\source\repos\SoloLearn\SoloLearn\bin\Debug\SoloLearn.exe.config
+C:\Users\Lenovo-PC\source\repos\SoloLearn\SoloLearn\bin\Debug\SoloLearn.exe
+C:\Users\Lenovo-PC\source\repos\SoloLearn\SoloLearn\bin\Debug\SoloLearn.pdb
+C:\Users\Lenovo-PC\source\repos\SoloLearn\SoloLearn\obj\Debug\SoloLearn.csprojAssemblyReference.cache
+C:\Users\Lenovo-PC\source\repos\SoloLearn\SoloLearn\obj\Debug\SoloLearn.Form1.resources
+C:\Users\Lenovo-PC\source\repos\SoloLearn\SoloLearn\obj\Debug\SoloLearn.Properties.Resources.resources
+C:\Users\Lenovo-PC\source\repos\SoloLearn\SoloLearn\obj\Debug\SoloLearn.csproj.GenerateResource.cache
+C:\Users\Lenovo-PC\source\repos\SoloLearn\SoloLearn\obj\Debug\SoloLearn.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo-PC\source\repos\SoloLearn\SoloLearn\obj\Debug\SoloLearn.exe
+C:\Users\Lenovo-PC\source\repos\SoloLearn\SoloLearn\obj\Debug\SoloLearn.pdb
